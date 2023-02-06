@@ -3,4 +3,6 @@ __pycache__/
 test.yaml
 config.yml
 clash_template.yml
+proxy/clash
+proxy/quanx
 
